@@ -26,7 +26,7 @@
 
 | File | Description |
 | --- | --- |
-| [Azure_IAM_Security_Lab_Report.docx](./Azure_IAM_Security_Lab_Report.docx) | Complete lab report with all screenshots embedded |
+| [Azure_IAM_Security_Lab_Report.pdf](./Azure_IAM_Security_Lab_Report.pdf) | Complete lab report with all screenshots embedded |
 | README.md | Project overview |
 
 ---
